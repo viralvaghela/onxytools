@@ -1,0 +1,21 @@
+{
+  "name": "onxytoolsbot",
+  "version": "1.0.0",
+  "description": "All in one telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "node-nmap": "^4.0.0",
+    "node-telegram-bot-api": "^0.58.0",
+    "nodemon": "^2.0.18",
+    "ping": "^0.4.2",
+    "qrcode": "^1.5.1",
+    "telegraf": "^4.8.5",
+    "whois": "^2.13.9"
+  }
+}

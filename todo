@@ -1,0 +1,68 @@
+# Commands
+
+1) General Use
+    [✅] wallpaper based on search query
+    [✅] QR Code generator
+    [✅] whatsapp msg sender without saving number
+    URL Shortener - bitly
+    True Caller ID
+    4.YT to MP3 converter
+    Image / Pdf Size Reducer
+
+2) Education & knowledge
+    text parrpharaser
+    Dictionary - Dictionary.com 
+    Image of the Day - NASA API
+    Coding Quiz
+
+3) Entertainment & Fun
+    [✅] Jokes
+    [✅] Memes
+    [✅] Quotes
+    SMS Boomber
+    Email Boomber
+    Songs lyrics finder
+    1.Downloader :
+        movie
+        youtube
+        youtube caption
+        spotify
+        Instagram
+        Facebook
+        Twitter
+        Twitch
+4) Security tools
+    [✅] Domain Whois information finder
+    [✅] ping
+    [✅] user recon
+    [✅] Instagram Recon
+    Temporary mail for bypassing OTPs
+    password generator
+    1.Port scanner
+    HASH cracker & Identifier
+    Dependency confusion finder
+    2.SQLi Scanner
+    3.XSS Scanner
+    4.phising check -
+    5.Provide latest CVE Details
+    Email validator
+
+3)News
+    News Based on Topic, for example "NEWS MICROSOFT" command will send latest news about microsoft
+
+4)Developer tools
+    Code runner - CodeRunner.com
+
+5)Crypto & Currency
+    Currency Price Finder
+
+
+===================================================================
+Daily PROGRRESS
+Date 17 July 2022
+    fixed bugs in userrecon
+    instarecon
+    jokes
+    memes
+    qrcode
+    whatsapp message sender
