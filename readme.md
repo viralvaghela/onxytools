@@ -1,23 +1,26 @@
 # Onxytools - A collection of all useful tools in one Single Telegram Bot
 
 [Checkout this on Telegram](https://t.me/onxytoolsbot)
+
 ![](./screenshots/1.png)
 
 **Features:**
 1) General Use
-    [✅] wallpaper based on search query
-    [✅] QR Code generator
-    [✅] whatsapp msg sender without saving number
+
+- [✅] wallpaper based on search query
+- [✅] QR Code generator
+- [✅] whatsapp msg sender without saving number
+
 2) Entertainment & Fun
-    [✅] Jokes
-    [✅] Memes
-    [✅] Quotes
+- [✅] Jokes
+- [✅] Memes
+- [✅] Quotes
 
 3) Security tools
-    [✅] Domain Whois information finder
-    [✅] ping
-    [✅] user recon
-    [✅] Instagram Recon
+- [✅] Domain Whois information finder
+- [✅] ping
+- [✅] user recon
+- [✅] Instagram Recon
 
 ![](./screenshots/2.png)
 ![](./screenshots/3.png)
