@@ -24,17 +24,17 @@ bot.start((ctx) => {
 bot.on("text", (ctx) => {
   //if chat id is 5342405979 then dont execute any command
 
-  console.log("Username : " + ctx.message.from.username);
-  console.log("Name : " + ctx.message.from.first_name);
-  console.log("Last Name : " + ctx.message.from.last_name);
-  console.log("ID : " + ctx.message.from.id);
-  console.log("Language : " + ctx.message.from.language_code);
-  console.log("Chat ID : " + ctx.message.chat.id);
-  console.log("Chat Type : " + ctx.message.chat.type);
-  console.log("Chat Title : " + ctx.message.chat.title);
-  console.log("Chat Username : " + ctx.message.chat.username);
-  console.log("Message is : " + ctx.message.text);
-  console.log("==================================");
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
   ctx.replyWithChatAction("typing");
   const message = ctx.message.text;
@@ -126,7 +126,7 @@ bot.on("callback_query", (ctx) => {
 });
 
 bot.on("audio", () => {
-  console.log("audio received ");
+  
 });
 
 bot.on("photo", (ctx) => {
