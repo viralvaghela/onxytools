@@ -6,7 +6,7 @@ const user_agents = [
 ];
 const instarecon = async (ctx, username) => {
   const url = "https://instagram.com/" + username + "/?__a=1";
-  console.log(url);
+  
 
   fetch(url, {
     method: "GET",
